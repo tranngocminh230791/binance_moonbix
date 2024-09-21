@@ -1,0 +1,5 @@
+# requirements.txt
+numpy
+panda
+requests
+aiohttp
