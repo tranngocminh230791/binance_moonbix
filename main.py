@@ -28,7 +28,7 @@ headers = {
         "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/124.0.2478.50 Version/17.0 Mobile/15E148 Safari/604.1",
 }
 
-query_id = "query_id=xxxx"
+query_id = "query_id=xxxx" # *********{Replace xxxx with your query_id}***********
 
 def generate_random_hex_payload(length):
     # Generate random bytes
