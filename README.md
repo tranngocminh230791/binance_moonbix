@@ -1,6 +1,6 @@
 # Main.py
 
-Binance Moonbit Bot
+Binance Moonbit Bot [Bot Link](https://t.me/Binance_Moonbix_bot/start?startApp=ref_916734478&startapp=ref_916734478&utm_medium=web_share_copy)
 
 ## Warning
 
